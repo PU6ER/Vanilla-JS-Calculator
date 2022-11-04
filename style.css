@@ -2,7 +2,7 @@
 body{
     display: flex;
     align-items: center;
-    background-image: url(/gradient.png);
+    background-image: url("https://github.com/PU6ER/Vanilla-JS-Calculator/blob/main/gradient.png");
     
     background-size: 100%;
     min-height: 2vh;
